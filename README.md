@@ -38,8 +38,6 @@ The objective is to compute and visualize key portfolio metrics such as returns,
 ## Project Structure
 
 ```text
-## Project Structure
-
 portfolio-risk-analysis/
 │
 ├── data/              # Datasets used in the project
