@@ -47,3 +47,43 @@ portfolio-risk-analysis/
 ├── .gitignore         # Files and folders ignored by Git
 ├── README.md          # Project description
 └── requirements.txt   # Required Python libraries
+
+## Results
+
+The project analyzes an equally weighted portfolio composed of:
+
+- AAPL
+- MSFT
+- GOOGL
+- AMZN
+- SPY
+
+The main portfolio metrics computed are:
+
+- Annual Return
+- Annual Volatility
+- Sharpe Ratio
+- Maximum Drawdown
+
+The final results are saved in:
+
+```text
+data/portfolio_summary.csv
+```
+
+## Visualizations
+
+The project also generates two main charts:
+
+```text
+images/portfolio_cumulative_returns.png
+images/portfolio_drawdown.png
+```
+
+### Portfolio Cumulative Returns
+
+![Portfolio Cumulative Returns](images/portfolio_cumulative_returns.png)
+
+### Portfolio Drawdown
+
+![Portfolio Drawdown](images/portfolio_drawdown.png)
