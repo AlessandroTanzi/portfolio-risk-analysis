@@ -41,8 +41,8 @@ The objective is to compute and visualize key portfolio metrics such as returns,
 portfolio-risk-analysis/
 │
 ├── data/
+├── images/
 ├── notebook/
 ├── src/
-├── images/
 ├── README.md
 └── requirements.txt
