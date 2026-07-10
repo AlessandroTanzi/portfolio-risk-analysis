@@ -4,7 +4,7 @@
 
 This project analyzes the risk and performance of a multi-asset portfolio using Python.
 
-The objective is to compute and visualize key portfolio metrics such as returns, volatility, correlation, cumulative performance, drawdown and Sharpe Ratio.
+The objective is to compute and visualize key portfolio metrics such as returns, volatility, cumulative performance, drawdown and Sharpe Ratio.
 
 ## Tools Used
 
@@ -29,7 +29,6 @@ The objective is to compute and visualize key portfolio metrics such as returns,
 
 - Daily returns
 - Volatility
-- Correlation
 - Portfolio return
 - Portfolio risk
 - Drawdown
